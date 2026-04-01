@@ -11,7 +11,7 @@
 
 ## Mentor : Neela Santosh
 
-Description : Sales Trend for Chanel
+Description : Data-Integration-From-Multiple-Sources-Customer-Orders-Data
 
 
 <img width="1421" height="802" alt="task2" src="https://github.com/user-attachments/assets/3f705c76-524d-45c5-9a8c-1e2361e18076" />
